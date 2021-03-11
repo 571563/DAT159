@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;dat159.fowler&apos; to &apos;ObligRefactoring/src&apos;&#x0A;- Original project: &apos;dat159&apos;&#x0A;- Destination element: &apos;ObligRefactoring/src&apos;&#x0A;- Original element: &apos;dat159/src/dat159.fowler&apos;" description="Copy package" destination="=ObligRefactoring/src" element1="/src&lt;dat159.fowler" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1600087636444" version="1.0"/>
+</session>

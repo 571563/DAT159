@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert anonymous class &apos;no.hvl.dat159.BagExample.processMessage().new Bag() {...}&apos; in &apos;no.hvl.dat159.BagExample.processMessage()&apos; to nested class&#x0A;- Original project: &apos;Exercise2 - Simple Refactorings&apos;&#x0A;- Original element: &apos;no.hvl.dat159.BagExample.processMessage().new Bag() {...}&apos;&#x0A;- Class name: &apos;BagImpl&apos;&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Declare class &apos;final&apos;" description="Convert anonymous class to nested" final="true" flags="786434" id="org.eclipse.jdt.ui.convert.anonymous" input="/src&lt;no.hvl.dat159{BagExample.java" name="BagImpl" selection="182 0" stamp="1598955268163" static="false" version="1.0" visibility="2"/>
+</session>

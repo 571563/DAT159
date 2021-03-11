@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dat159.fowler.Customer"/>
+    <fullyQualifiedTypeName name="dat159.fowler.Rental"/>
+    <fullyQualifiedTypeName name="dat159.fowler.Movie"/>
+    <fullyQualifiedTypeName name="dat159.oppg3.main.Super"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.comp.Infer"/>
+    <fullyQualifiedTypeName name="dat159.oppg3.main.Infer"/>
+    <fullyQualifiedTypeName name="dat159.oppg3.Oppgave3.Super"/>
+    <fullyQualifiedTypeName name="dat159.oppg3.Oppgave3.Infer"/>
+    <fullyQualifiedTypeName name="java.security.cert.X509Certificate"/>
+    <fullyQualifiedTypeName name="java.security.cert.CertificateFactory"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.security.cert.CertificateException"/>
+    <fullyQualifiedTypeName name="java.security.KeyStore"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.security.Signature"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.crypto.DigitalSignature"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.crypto.KeyStores"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.DatatypeConverter"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.FullNode"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.Wallet"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.Transaction"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.Block"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.util.DateTimeUtil"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.util.EncodingUtil"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.util.SignatureUtil"/>
+    <fullyQualifiedTypeName name="no.hvl.dat159.util.HashUtil"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="javax.naming.InsufficientResourcesException"/>
+</qualifiedTypeNameHistroy>

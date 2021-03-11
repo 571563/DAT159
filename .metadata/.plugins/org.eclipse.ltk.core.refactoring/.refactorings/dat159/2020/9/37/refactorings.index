@@ -1,0 +1,8 @@
+1599553520779	Extract local variable 'movie'
+1599553547473	Extract method 'determain'
+1599561877388	Extract local variable 'name'
+1599561900958	Extract method 'header'
+1599562040272	Extract local variable 'string'
+1599562093838	Extract local variable 'footer2'
+1599562186794	Extract method 'footer'
+1599562216095	Inline local variable 'footer'
